@@ -2,7 +2,9 @@
 Notebook: https://colab.research.google.com/drive/1pmsCkedEju6OF6q3Cnsb2HqWfxqN2Hs8#scrollTo=STXjzU8We2L1
 
 Формула нормализации:
-$$TPM = A \tick \frac{1}{/sum(A)} \tick 10^6$$
+
+![image](https://github.com/kreveto444ka/hse23_hw5/assets/45360131/8231c9fd-6981-4ec0-b29e-91370d1a0826)
+
 
 Heatmap:
 
